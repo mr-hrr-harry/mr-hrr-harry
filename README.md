@@ -17,7 +17,7 @@ public class Main{
     chat[10] = "That's good. Lemme kno ur hobbies or timepass";
     chat[11] = "I always 've a never ending or never dying love for Space, Music, Colors, Numbers";
     chat[12] = "Say about your technical side";
-    chat[13] = "Hahaha, I aint a good resume builder ... still let my resume speak >> Open Browser >> copy this url >> \"https://www.linkedin.com/in/m-a-harish-j-a69474209\" ";
+    chat[13] = "Hahaha, I aint a good resume builder ... still let my resume speak >> Open Browser >> copy this url >> https://www.linkedin.com/in/m-a-harish-j-a69474209 ";
     chat[14] = "Good and nice to meet you man, how could I contact you ?";
     chat[15] = "Connect me thro your linkedIn and just text your one of your gitHub profile viewer and there I'm your new friend";
     chat[16] = "u r Crazy man";
