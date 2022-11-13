@@ -22,5 +22,12 @@ public class Hello{
     chat[16] = "Connect me thro your linkedIn and just text your one of your gitHub profile viewer and there I'm your new friend";
     char[17] = "u r Crazy man";
     char[18] = "I'm always crazy my man";
-    }
+    
+    for(int i=0; i<chat.length; i++){
+      if(i%2==0){
+        System.out.print("You "+ chat[i]);
+      }
+      else if
+    } 
+  }
 }
