@@ -2,7 +2,7 @@
 
 public class Hello{
   public static void main(String[] args){
-    String[] chat = new String[15];
+    String[] chat = new String[20];
     String You, Horror;
     chat[0] = "Hello Man";
     chat[1] = "Hello dood";
@@ -17,6 +17,10 @@ public class Hello{
     chat[11] = "That's good. Lemme kno ur hobbies or timepass";
     chat[12] = "I always 've a never ending or never dying love for Space, Music, Colors, Numbers";
     chat[13] = "Say about your technical side";
-    chat[14] = "Hahaha, I aint a good resume builder ... still let my resume speak Open Browser >> copy this url >> ";
+    chat[14] = "Hahaha, I aint a good resume builder ... still let my resume speak Open Browser >> copy this url >> \"https://www.linkedin.com/in/m-a-harish-j-a69474209\" ";
+    chat[15] = "Good and nice to meet you man, how could I contact you ?";
+    chat[16] = "Connect me thro your linkedIn and just text your one of your gitHub profile viewer and there I'm your new friend";
+    char[17] = "u r Crazy man";
+    char[18] = "I'm always crazy my man";
     }
 }
