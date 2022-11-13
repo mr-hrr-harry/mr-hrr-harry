@@ -11,8 +11,12 @@ public class Hello{
     chat[5] = "Where are you from ?";
     chat[6] = "I'm from Thoothukudi, TamilNadu, India, a less known town on earth";
     chat[7] = "What are you good at ?";
-    chat[8] = "I'm good at java problem programming, ";
+    chat[8] = "I'm good at java problem programming, efficient time and space complex code solver. pattern handling";
     chat[9] = "Say more about yourself";
-    chat[10] = "I'm a learner, an enthusiastic learner, critical thinker, good decision maker, efficient mini problem program solver, a man of colorful view";
+    chat[10] = "I've the traits of a learner - an enthusiastic learner, critical thinker, good decision maker, efficient mini problem program solver, a man of colorful view, creative thinker, a good writer of quotes/poem and this list extends further";
+    chat[11] = "That's good. Lemme kno ur hobbies or timepass";
+    chat[12] = "I always 've a never ending or never dying love for Space, Music, Colors, Numbers";
+    chat[13] = "Say about your technical side";
+    chat[14] = "Hahaha, I aint a good resume builder ... still let my resume speak Open Browser >> copy this url >> ";
     }
 }
