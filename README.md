@@ -25,9 +25,11 @@ public class Hello{
     
     for(int i=0; i<chat.length; i++){
       if(i%2==0){
-        System.out.print("You "+ chat[i]);
+        System.out.println("You "+ chat[i]);
       }
-      else if
+      else{
+        System.out.println("Horror "+ chat[i] + "\n");
+      }
     } 
   }
 }
