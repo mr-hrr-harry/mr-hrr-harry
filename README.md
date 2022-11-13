@@ -25,6 +25,6 @@ public class Main{
     
     for(int i=0; i<chat.length; i++) System.out.println(i%2==0 ? "You      : "+chat[i] : "Mr_Horror: "+chat[i]+"\n");
     
-  }
+  } 
 }
  
