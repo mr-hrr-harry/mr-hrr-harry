@@ -11,6 +11,7 @@
 public class Main{
   public static void main(String[] args){
     String[] chat = new String[18];
+    
     String You, Horror;
     chat[0] = "Hello Man";
     chat[1] = "Hello dood";
