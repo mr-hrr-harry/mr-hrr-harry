@@ -10,9 +10,10 @@
 
 // Wanna kno me ? But before that, if you kno u kno...get ready with a java compiler
 
-public class Main{
-
-  public static void main(String[] args){
+public class Main
+{
+  public static void main(String[] args)
+  {
   
     String[] chat = new String[18];
     
