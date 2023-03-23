@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm M A Harish J</h1>
+<h1 align="left">Hi 👋, I'm M A Harish J</h1>
+
 <h3 align="center">An enthusiastic Developer, Designer and Writer</h3>
 <hr>
 
 <h1 align="center">Programming Platforms</h1>
 <h3>Programming Languages:</h3> 
-<p align="left">
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     </a>
@@ -23,7 +24,7 @@
 
 
 <h3>Frontend Development:</h3> 
-<p align="left">
+<p align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> 
     </a>
@@ -43,7 +44,7 @@
 
 
 <h3>Backend Development:</h3>
-<p align="left">
+<p align="center">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     </a>
@@ -52,7 +53,7 @@
 
 
 <h3>Mobile App Development:</h3>
-<p align="left">
+<p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
     </a>
@@ -62,7 +63,7 @@
 
 
 <h3>Database:</h3>
-<p align="left">
+<p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
     </a>
@@ -77,7 +78,7 @@
 
 
 <h3>Backend as a Service(BaaS):</h3>
-<p align="left">
+<p align="center">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
@@ -87,7 +88,7 @@
 
 
 <h3>Software Tools:</h3>
-<p align="left">
+<p align="center">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
     </a>
@@ -100,7 +101,7 @@
 
 
 <h3>Others:</h3>
-<p align="left">
+<p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a>
