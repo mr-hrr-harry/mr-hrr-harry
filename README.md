@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic Developer, Designer and Writer</h3>
 <hr>
 
-<h1 align="center">Programming Platforms</h1>
+<h1 align="center">PROGRAMMING PLATFORMS</h1>
 <h3>Programming Languages:</h3> 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
