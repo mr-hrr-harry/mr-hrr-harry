@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm M A Harish J</h1>
 <h3 align="center">An enthusiastic Developer, Designer and Writer</h3>
+<hr>
 
+<h1 align="center">Programming Platforms</h1>
 <h3>Programming Languages:</h3> 
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
