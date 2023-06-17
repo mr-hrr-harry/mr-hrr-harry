@@ -9,16 +9,6 @@
 - 🌱 I’m currently learning **nodejs & reactjs**
 
 - 📄 Know about my experiences   [My_Resume](https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J)
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-horror-harry&label=Profile%20views&color=0e75b6&style=flat" alt="mr-horror-harry" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&show_icons=true&locale=en" alt="mr-horror-harry" /></p>
-
-
-
 <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
@@ -29,6 +19,16 @@
 <a href="https://www.leetcode.com/2012094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2012094" height="30" width="40" /></a>
         </p>
 </div>
+
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-horror-harry&label=Profile%20views&color=0e75b6&style=flat" alt="mr-horror-harry" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&show_icons=true&locale=en" alt="mr-horror-harry" /></p>
+
+
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
