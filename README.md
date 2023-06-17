@@ -75,9 +75,3 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-horror-harry&label=Profile%20views&color=0e75b6&style=flat" alt="mr-horror-harry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-horror-harry" alt="mr-horror-harry" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
