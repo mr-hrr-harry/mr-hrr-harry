@@ -5,24 +5,22 @@
 
 <div>
     <div>
-- 🔭 I’m currently a Student
+        - 🔭 I’m currently a Student
+        
+        - 🌱 I’m currently learning **nodejs & reactjs**
+        
+        - 📄 Know about my experiences [My_Resume](https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J)
+    </div>
 
-- 🌱 I’m currently learning **nodejs & reactjs**
-
-- 📫 Mail me at **mr.horror3737@gmail.com**
-
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J)
-</div>
-
-<div style="float:right">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m_a_harish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_a_harish_j" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/m-a-harish-j-a69474209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-a-harish-j-a69474209" height="30" width="40" /></a>
-<a href="https://fb.com/ma.harishj.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ma.harishj.7" height="30" width="40" /></a>
-<a href="https://instagram.com/m_a_harish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_a_harish_j" height="30" width="40" /></a>
-</p>
-</div>
+    <div style="float:right">
+        <h3 align="left">Connect with me:</h3>
+        <p align="left">
+        <a href="https://twitter.com/m_a_harish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_a_harish_j" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/m-a-harish-j-a69474209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-a-harish-j-a69474209" height="30" width="40" /></a>
+        <a href="https://fb.com/ma.harishj.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ma.harishj.7" height="30" width="40" /></a>
+        <a href="https://instagram.com/m_a_harish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_a_harish_j" height="30" width="40" /></a>
+        </p>
+    </div>
 </div>
 <br>
 
