@@ -4,7 +4,7 @@
 <br>
 
 <div>
-    <div>
+<div>
         - 🔭 I’m currently a Student
         
         - 🌱 I’m currently learning **nodejs & reactjs**
