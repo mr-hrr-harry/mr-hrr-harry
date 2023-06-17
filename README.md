@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **nodejs & reactjs**
 
-- 📄 Know about my experiences   [My_Resume](https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J)
+- 📄 Know about my experiences   [My_Resume](https://drive.google.com/file/d/1qfYwwGYdtjs8Nut4gBKK8lzgPvhFgruK/view?usp=drive_link)
 <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
