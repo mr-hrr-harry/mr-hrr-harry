@@ -13,6 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/m_a_harish_j" target="blank"><img src="https://img.shields.io/twitter/follow/m_a_harish_j?logo=twitter&style=for-the-badge" alt="m_a_harish_j" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
+
+
 <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
