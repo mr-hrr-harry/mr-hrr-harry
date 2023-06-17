@@ -11,7 +11,7 @@
 - 📄 Know about my experiences   [My_Resume](https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J)
 </div>
 
-<p align="left"> <a href="https://twitter.com/m_a_harish_j" target="blank"><img src="https://img.shields.io/twitter/follow/m_a_harish_j?logo=twitter&style=for-the-badge" alt="m_a_harish_j" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-horror-harry" alt="mr-horror-harry" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
 
