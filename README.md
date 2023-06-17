@@ -4,7 +4,13 @@
 <br>
 <hr>
 <br>
+- 🔭 I’m currently working on **Full stack Development**
 
+- 🌱 I’m currently learning **nodejs & reactjs**
+
+- 📫 How to reach me **mr.horror3737@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J](https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
 
 <h3 align="left">Connect with me:</h3>
