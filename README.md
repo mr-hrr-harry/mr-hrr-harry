@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences   [My_Resume](https://drive.google.com/drive/u/1/folders/1teTWeqGQ5s0hCOMx2Ydupy0l1Kl8c1_J)
 </div>
-
+<vr>
  <div style="float: right">
         <h3 align="left">Connect with me:</h3>
         <p align="left">
@@ -20,7 +20,6 @@
         <a href="https://instagram.com/m_a_harish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_a_harish_j" height="30" width="40" /></a>
         </p>
     </div>
-</div>
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
