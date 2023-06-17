@@ -4,7 +4,6 @@
 <br>
 
 <div>
-<div style="float: left">
 - 🔭 I’m currently a Student
 
 - 🌱 I’m currently learning **nodejs & reactjs**
