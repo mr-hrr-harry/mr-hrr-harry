@@ -4,7 +4,7 @@
 <br>
 
 <div>
-• 🔭 I’m currently a Student
+• 🔭 I’m currently a Student<br>
         
 • 🌱 I’m currently learning **nodejs & reactjs**
         
