@@ -5,9 +5,7 @@
 
 <div>
         • 🔭 I’m currently a Student
-
         • 🌱 I’m currently learning **nodejs & reactjs**
-
         • 📄 Know about my experiences   [My_Resume](https://drive.google.com/file/d/1qfYwwGYdtjs8Nut4gBKK8lzgPvhFgruK/view?usp=drive_link)
 <div>
         <h3 align="left">Connect with me:</h3>
