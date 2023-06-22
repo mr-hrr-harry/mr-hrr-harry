@@ -4,9 +4,6 @@
 <br>
 
 <div>
-        
-• [Tap to mail me!](mr.horror3737@gmail.com) <br>
-• 📄 Know about my experiences   [My_Resume](https://drive.google.com/file/d/1qfYwwGYdtjs8Nut4gBKK8lzgPvhFgruK/view?usp=drive_link)
 <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
@@ -16,6 +13,8 @@
         <a href="https://instagram.com/m_a_harish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_a_harish_j" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/2012094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2012094" height="30" width="40" /></a>
         </p>
+        
+• 📄 Know about my experiences   [My_Resume](https://drive.google.com/file/d/1qfYwwGYdtjs8Nut4gBKK8lzgPvhFgruK/view?usp=drive_link)
 </div>
 
 </div>
