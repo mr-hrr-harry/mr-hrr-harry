@@ -11,9 +11,10 @@
         <a href="https://fb.com/ma.harishj.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ma.harishj.7" height="30" width="40" /></a>
         <a href="https://instagram.com/m_a_harish_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_a_harish_j" height="30" width="40" /></a>
         <br>
-        <br>
              
 • ✉️ Contact me through **mr.horror3737@gmail.com**
+        <br>
+        <br>
 
 <h4>Coding:</h4>
 <a href="https://www.leetcode.com/2012094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2012094" height="30" width="40" /></a>
