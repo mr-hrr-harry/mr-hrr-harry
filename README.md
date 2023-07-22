@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm M A Harish J</h1>
 
 <h3 align="center">An enthusiastic Developer, Designer and Writer</h3>
-<br>
 
 <div>
         <h3 align="left">Connect with me:</h3>
@@ -18,6 +17,7 @@
 
 <h4>Coding:</h4>
 <a href="https://www.leetcode.com/2012094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2012094" height="30" width="40" /></a>
+        <br>
         <br>
         <h4>Designing:</h4>
         <a href="https://www.behance.net/mrhrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrhrrr" height="30" width="40" /></a>
