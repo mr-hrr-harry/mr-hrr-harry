@@ -13,10 +13,11 @@
         <a href="https://www.behance.net/mrhrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrhrrr" height="30" width="40" /></a>
         <a href="https://dribbble.com/m_a_harish_j_1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="m_a_harish_j_1303" height="30" width="40" /></a>
         </p>
-        
+<br>
+• ✉️ Contact me through **mr.horror3737@gmail.com**
+
 • 📄 Know about my experiences   [My_Resume](https://drive.google.com/file/d/1qfYwwGYdtjs8Nut4gBKK8lzgPvhFgruK/view?usp=drive_link)
 
-• ✉️ Contact me through **mr.horror3737@gmail.com**
 
 </div>
 <br>
