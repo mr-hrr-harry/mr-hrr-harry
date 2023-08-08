@@ -14,22 +14,6 @@
         <a href="https://dribbble.com/m_a_harish_j_1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="m_a_harish_j_1303" height="30" width="40" /></a>
         </p>
 
-        <h1 align="center">Hi 👋, I'm mr-horror-harry</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-horror-harry&label=Profile%20views&color=0e75b6&style=flat" alt="mr-horror-harry" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&show_icons=true&locale=en" alt="mr-horror-harry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
-
-
 • ✉️ Contact me through **mr.horror3737@gmail.com**
 
 • 📄 Know about my experiences   [My_Resume](https://drive.google.com/file/d/1qfYwwGYdtjs8Nut4gBKK8lzgPvhFgruK/view?usp=drive_link)
