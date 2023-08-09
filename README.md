@@ -25,9 +25,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-horror-harry&label=Profile%20views&color=0e75b6&style=flat" alt="mr-horror-harry" /> </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&show_icons=true&locale=en" alt="mr-horror-harry" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
