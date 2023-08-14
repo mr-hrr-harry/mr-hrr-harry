@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm M A Harish J</h1>
 
 <h3 align="center" style="padding:5 px; margin:10 px; background-color:white; color:black; border-radius:20 px;">An enthusiastic Developer | Designer | Writer</h3>
-
+<img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw">
 <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
-
 <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
