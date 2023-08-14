@@ -2,10 +2,8 @@
 
 <h3 align="center" style="padding:5 px; margin:10 px; background-color:white; color:black; border-radius:20 px;">An enthusiastic Developer | Designer | Writer</h3>
 
-<div align-text="right"> 
-<img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" height=150px width=auto>
+<div align="center"> 
 <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif" height=150px width=auto>
 </div>
 
 <div>
