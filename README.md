@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm M A Harish J</h1>
 
 <h3 align="center" style="padding:5 px; margin:10 px; background-color:white; color:black; border-radius:20 px;">An enthusiastic Developer | Designer | Writer</h3>
-<img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=100px width=auto>
 <img src="https://media3.giphy.com/media/l0HlQ252uVE10zIgE/giphy.gif?cid=ecf05e47di5zuffcr87rhnbynah3w9aq7ec92w0mpvkw6x82&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <div>
