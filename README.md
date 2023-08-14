@@ -105,7 +105,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mr-horror-harry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="175" alt="languages graph"  />
-  ![](https://github-readme-stats.vercel.app/api?username=mr-horror-harry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="312" alt="stats graph"/>
 </div>
 
 ###
