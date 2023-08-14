@@ -4,7 +4,7 @@
 
 <div> 
 <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif">
+
 </div>
 <div>
         <h3 align="left">Connect with me:</h3>
@@ -37,6 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&show_icons=true&locale=en" alt="mr-horror-harry" /></p>
 </div>
+<img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif">
 
 <br>
 
