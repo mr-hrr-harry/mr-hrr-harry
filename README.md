@@ -20,10 +20,6 @@
 
 ###
 
-<h3 align="left">⚙️ Languages 🛠️ Tools & Platforms 🧑🏻‍💻 Frameworks</h3>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="25" alt="android logo"  />
   <img width="5" />
@@ -43,6 +39,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo"  />
 </div>
+<br>
 <br>
 
 <div align="center">
@@ -75,12 +72,14 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
 </div>
 <br>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
 </div>
+<br>
 <br>
 
 ###
