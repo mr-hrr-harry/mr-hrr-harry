@@ -46,11 +46,11 @@
 
 ###
 
-<h3 align="right">Tools & Platforms 🛠️</h3>
+<h3 align="center">Tools & Platforms 🛠️</h3>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="25" alt="androidstudio logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="25" alt="blender logo"  />
@@ -80,11 +80,11 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💻 Frameworks</h3>
+<h3 align="right">Frameworks 🧑🏻‍💻</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
