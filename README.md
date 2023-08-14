@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm M A Harish J</h1>
 
 <h3 align="center" style="padding:5 px; margin:10 px; background-color:white; color:black; border-radius:20 px;">An enthusiastic Developer | Designer | Writer</h3>
-<img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g" height=600px width=auto>
+<img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <div>
         <h3 align="left">Connect with me:</h3>
@@ -26,10 +26,11 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-horror-harry&label=Profile%20views&color=0e75b6&style=flat" alt="mr-horror-harry" /> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&show_icons=true&locale=en" alt="mr-horror-harry" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&show_icons=true&locale=en&layout=compact" alt="mr-horror-harry" /></p>
 <br>
 
 <h1 align="center">My Development Stack</h1>
