@@ -12,11 +12,11 @@
 
 ###
 
-<h4 align="right">👾 Call me Horror!<br>(Here I'm Harry from India)</h4>
+<h5 align="right">👾 Call me Horror!<br>(Here I'm Harry from India)</h5>
 
 ###
 
-<h3 align="center">-------------------------------------  My Development Stack  -------------------------------</h3>
+<h3 align="center">- - - My Development Stack - - -</h3>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h3 align="center">-----------------------------------------  My Stats  -------------------------------------------</h3>
+<h3 align="center">- - - My Stats - - -</h3>
 
 ###
 
@@ -100,23 +100,7 @@
 
 ###
 
-<img align="left" height="75" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"  />
-
-###
-
-<img align="left" height="75" src="https://cdn.dribbble.com/users/2146370/screenshots/9344637/media/0059834c5239c93f30c78514086c04a5.gif"  />
-
-###
-
-<img align="left" height="75" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/media/3f5492e77bc2d10a60c997d4b6e567a5.gif"  />
-
-###
-
-<img align="left" height="75" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/media/8b4786572205a8ac7305403f5e495c81.gif"  />
-
-###
-
-<img align="left" height="75" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
+<img align="left" height="100" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"  />
 
 ###
 
@@ -130,7 +114,7 @@
 
 ###
 
-<h3 align="center">-------------------------------------------  Connect with me  -----------------------------------------</h3>
+<h3 align="center">- - - Connect with me - - -</h3>
 
 ###
 
