@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm M A Harish J</h1>
 
-<h3 align="center" styles="padding:5px; margin:10px; background-color: white; border-radius"20px">An enthusiastic Developer | Designer | Writer</h3>
+<h3 align="center" style = "padding:5px; margin:10px; background-color: white; border-radius"20px">An enthusiastic Developer | Designer | Writer</h3>
 
 <div>
         <h3 align="left">Connect with me:</h3>
