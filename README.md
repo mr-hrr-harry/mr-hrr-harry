@@ -4,7 +4,7 @@
 
 <div align-text="right"> 
 <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif">
+<img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif" height=100px width=auto>
 </div>
 
 <div>
