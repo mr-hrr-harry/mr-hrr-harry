@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">⚙️ Languages</h3>
+<h3 align="left">⚙️ Languages 🛠️ Tools & Platforms 🧑🏻‍💻 Frameworks</h3>
 
 ###
 
@@ -43,12 +43,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo"  />
 </div>
-
-###
-
-<h3 align="center">Tools & Platforms 🛠️</h3>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="25" alt="androidstudio logo"  />
@@ -77,12 +71,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="right">Frameworks 🧑🏻‍💻</h3>
-
-###
 
 <div align="right">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
