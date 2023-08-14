@@ -36,9 +36,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-horror-harry&" alt="mr-horror-harry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&show_icons=true&locale=en" alt="mr-horror-harry" /></p>
+</div >
+<div style="display:flex; justify-content:flex-end">
+        <img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif">
 </div>
-<img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif">
-
 <br>
 
 <h1 align="center">My Development Stack</h1>
