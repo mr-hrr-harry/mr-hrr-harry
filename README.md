@@ -92,11 +92,11 @@
 
 ###
 
-<h3 align="center">-----------------------------------------  My Stats  ----------------------------------------</h3>
+<h3 align="center">-----------------------------------------  My Stats  -------------------------------------------</h3>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mr-horror-harry.mr-horror-harry&left_text=Profile Views"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mr-horror-harry.mr-horror-harry&left_text=visits"  />
 
 ###
 
@@ -130,7 +130,7 @@
 
 ###
 
-<h3 align="center">--------------------------------------  Connect with me  -------------------------------------</h3>
+<h3 align="center">-------------------------------------------  Connect with me  -----------------------------------------</h3>
 
 ###
 
