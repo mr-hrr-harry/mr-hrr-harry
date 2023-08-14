@@ -4,7 +4,7 @@
 
 <div> 
 <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e474rv6g5x82pst56addblg1u1glgrt772a5wnpj5f8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<img src="https://media3.giphy.com/media/l0HlQ252uVE10zIgE/giphy.gif?cid=ecf05e47di5zuffcr87rhnbynah3w9aq7ec92w0mpvkw6x82&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img src="https://slanted.studio/wp-content/uploads/Character_3_051016.gif">
 </div>
 <div>
         <h3 align="left">Connect with me:</h3>
