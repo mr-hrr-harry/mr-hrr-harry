@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="right">👾 Call me Horror!<br>(Here I'm Harry from India)</h4>
+<h5 align="right">👾 Call me Horror!<br>(Here I'm Harry from India)</h5>
 
 ###
 
@@ -92,15 +92,19 @@
 
 ###
 
+<div align="left">
+  <img height="200" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"  />
+</div>
+
+###
+
 <h3 align="center">- - - My Stats - - -</h3>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mr-horror-harry.mr-horror-harry&left_text=visits"  />
-
-###
-
-<img align="left" height="100" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif"  />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mr-horror-harry.mr-horror-harry&left_text=visits"  />
+</div>
 
 ###
 
@@ -109,7 +113,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mr-horror-harry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-horror-harry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="175" alt="languages graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="312" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-horror-harry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="312" alt="stats graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="200" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif"  />
 </div>
 
 ###
