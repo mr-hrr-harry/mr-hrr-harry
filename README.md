@@ -68,6 +68,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
   <img width="5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="25" alt="inkscape logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="25" alt="jira logo"  />
