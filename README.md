@@ -152,9 +152,6 @@
   <a href="https://web.telegram.org/a/#1427429824" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="38" height="28" alt="telegram logo"  />
   </a>
-  <a href="mr.horror3737@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="28" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
