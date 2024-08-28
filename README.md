@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">An enthusiastic Developer | Designer | Writer</h3>
+<h3 align="center">An enthusiastic Developer</h3>
 <h5 align="center"> -- Lemme Cook! --</h5>
 <br>
 <br>
@@ -143,7 +143,7 @@
   <a href="https://twitter.com/m_a_harish_j" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="28" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/m_a_harish_j" target="_blank">
+  <a href="https://www.instagram.com/_lemme._.cook_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="28" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/ma.harishj.7" target="_blank">
