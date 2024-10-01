@@ -42,12 +42,15 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="25" alt="bash logo"  />
+  <img width="5" />
 </div>
 <br>
 <br>
 
 <div align="center">
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
   <img width="5" />
